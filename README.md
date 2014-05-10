@@ -9,9 +9,15 @@ Integrate and Fire:
 
 Guia1/guia1_2.ipynb
 
+
+
 Simulacion PID:
 
 Guia1/simulacion_pid.ipynb
+
+Viewer estatico:
+
+http://nbviewer.ipython.org/github/elsuizo/Redes_fuzzy/blob/master/Guia1/simulacion_pid.ipynb
 
 El tp2 constaba de dos ejercicios el ejercicio 1 de la Guia 2(Perceptron) y el ejercicio 3 de la Guia 3(Optimización)
 
