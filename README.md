@@ -1,7 +1,7 @@
 Redes_fuzzy
 ===========
 
-Repositorio de la materia Redes Neuronale y Logica difusa (IACI-U.N.Q)
+###Repositorio de la materia Redes Neuronale y Logica difusa (IACI-U.N.Q)
 
 El Tp1 constaba de una simulación de una Neurona *Integrate and Fire* y una simulación numérica a elección. A continuación los Notebook de Ipython:
 
