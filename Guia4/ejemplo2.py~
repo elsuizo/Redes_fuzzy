@@ -1,0 +1,20 @@
+#! /usr/bin/env python
+#-*- coding utf-8 -*-
+
+#***********************************************************************
+
+# Imports
+import numpy as np
+import matplotlib.pyplot as plt
+import matplotlib.image as mpimg
+#***********************************************************************
+
+line, = ax.plot(rand(100), 'o', picker=5)  # 5 points tolerance
+
+def on_pick(event):
+    thisline = event.artist
+    xdata, ydata = thisline.get_data()
+    ind = event.ind
+    print('on pick line:', zip(xdata[ind], ydata[ind]))
+
+cid = fig.canvas.mpl_connect('pick_event', on_pick)
